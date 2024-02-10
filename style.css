@@ -1,0 +1,45 @@
+.icon{
+    font-size: 300px;
+    color: blanchedalmond;
+    float: right;
+}.left{
+    text-align: right;
+    font-size: 220px;
+    color: blueviolet;
+    margin: 30px;
+    float: right;
+}div{
+    font-size: 10px;
+    text-align: center;
+    margin-left: 20px;
+}video{
+    width: 100%;
+    margin-top: 40px;
+}.head{
+   
+    display: inline;
+}li a{
+    
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 90px;
+    border: 1px double black;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgba(128, 255, 0, 0.704);
+    border-radius: 15px;
+    margin-top: 20px;
+}p{
+    font-size: 20px;
+}i{
+    font-size: 20px;
+   margin-left: 70px;
+   float: right;
+   
+  
+}.div1{
+    display: inline;
+   
+}span{
+    margin-bottom: 30px;
+}

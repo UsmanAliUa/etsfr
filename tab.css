@@ -1,0 +1,36 @@
+.nav{
+    background-color: rgb(246, 243, 243);
+    margin-right: 10px;
+    border: 1px solid rgb(244, 235, 235);
+    padding: 7px;
+    margin-left:4px ;
+}img{
+    border: 1px solid rgb(180, 178, 178);
+}tr,table,td{
+    border: 1px solid black;
+
+}.span1{
+background-color: rgb(222, 227, 227);
+margin-right: 15px;
+}.span2{
+    background-color: rgb(222, 227, 227);
+    }.span3{
+        border: 1px solid red;
+        color: red;
+    }.main-span{
+        margin-left: 16px;
+    }.blue{
+        color: blue;
+        margin-left: 16px;
+    }.ul{
+        margin-bottom: 10px;
+    }.h2{
+        background-color: rgb(153, 255, 0);
+        
+    }.h2 span{
+        margin-right: 50px;
+    }.Drop-doun{
+
+    }.Drop-doun spna{
+        display: none;
+    }
